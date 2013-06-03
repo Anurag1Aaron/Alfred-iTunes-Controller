@@ -12,43 +12,60 @@ This workflow was made by Anurag Mahlawat. A student studying in Singapore. Sugg
 
 Instructions:
 
+
 1) Type it start to open up iTunes
+
 2) Type it play to play
+
 3) Type it mute to mute
+
 4) Type it quit to quit
 
 Commands:
-it start
-it open
+it start                  Starts iTunes
 
-it <
-it prev
+it open                   Starts iTunes
 
-it >
-it next
+it <                      Plays previous song
 
-it mute 
-it unmute
+it prev                   Plays previous song
 
-it quit
-it kill
+it >                      Plays next song
 
-it play
-it pause
-it stop
+it next                   Plays next song
 
-it help
-it h
+it mute                   Mutes iTunes
+
+it unmute                 Unmutes iTunes
+
+it quit                   Quits iTunes
+
+it kill                   Quits iTunes
+
+it play                   Starts Playing
+
+it pause                  Pauses playing
+
+it stop                   Stops playing
+
+it help                   Shows instructions of the workflow
+
+it h                      Shows Instructions of the workflow
+
+it open                   Lets you open a song of your choice(You have to navigate to the song)
 
 Controls with Notifications:
-it dev
 
-it track
+it dev                     Shows information about the developer
 
-it artist
+it track                  Shows information about the track playing
 
-it duration
+it artist                 Shows information about the artist of track
 
-it album
+it duration               Shows the duration of the track
 
-it track
+it album                  Shows the album of the track
+
+it count                  Shows how many times the track has been played
+
+it times                  Shows how many times the track has been played
