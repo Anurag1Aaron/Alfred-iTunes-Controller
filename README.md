@@ -22,50 +22,51 @@ Instructions:
 4) Type it quit to quit
 
 Commands:
-it start                  Starts iTunes
 
-it open                   Starts iTunes
+it start                              Starts iTunes
 
-it <                      Plays previous song
+it open                               Starts iTunes
 
-it prev                   Plays previous song
+it <                                  Plays previous song
 
-it >                      Plays next song
+it prev                               Plays previous song
 
-it next                   Plays next song
+it >                                  Plays next song
 
-it mute                   Mutes iTunes
+it next                               Plays next song
 
-it unmute                 Unmutes iTunes
+it mute                               Mutes iTunes
 
-it quit                   Quits iTunes
+it unmute                             Unmutes iTunes
 
-it kill                   Quits iTunes
+it quit                               Quits iTunes
 
-it play                   Starts Playing
+it kill                               Quits iTunes
 
-it pause                  Pauses playing
+it play                               Starts Playing
 
-it stop                   Stops playing
+it pause                              Pauses playing
 
-it help                   Shows instructions of the workflow
+it stop                               Stops playing
 
-it h                      Shows Instructions of the workflow
+it help                               Shows instructions of the workflow
 
-it open                   Lets you open a song of your choice(You have to navigate to the song)
+it h                                  Shows Instructions of the workflow
+
+it open                               Lets you open a song of your choice(You have to navigate to the song)
 
 Controls with Notifications:
 
-it dev                     Shows information about the developer
+it dev                                Shows information about the developer
 
-it track                  Shows information about the track playing
+it track                              Shows information about the track playing
 
-it artist                 Shows information about the artist of track
+it artist                             Shows information about the artist of track
 
-it duration               Shows the duration of the track
+it duration                           Shows the duration of the track
 
-it album                  Shows the album of the track
+it album                              Shows the album of the track
 
-it count                  Shows how many times the track has been played
+it count                              Shows how many times the track has been played
 
-it times                  Shows how many times the track has been played
+it times                              Shows how many times the track has been played
