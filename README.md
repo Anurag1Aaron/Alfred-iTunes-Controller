@@ -23,50 +23,50 @@ Instructions:
 
 Commands:
 
-it start                              Starts iTunes
+it start      ::  Starts iTunes
 
-it open                               Starts iTunes
+it open      ::  Starts iTunes
 
-it <                                  Plays previous song
+it <      ::  Plays previous song
 
-it prev                               Plays previous song
+it prev      ::  Plays previous song
 
-it >                                  Plays next song
+it >      ::  Plays next song
 
-it next                               Plays next song
+it next      ::  Plays next song
 
-it mute                               Mutes iTunes
+it mute      ::  Mutes iTunes
 
-it unmute                             Unmutes iTunes
+it unmute      ::  Unmutes iTunes
 
-it quit                               Quits iTunes
+it quit      ::  Quits iTunes
 
-it kill                               Quits iTunes
+it kill      ::  Quits iTunes
 
-it play                               Starts Playing
+it play      ::  Starts Playing
 
-it pause                              Pauses playing
+it pause      ::  Pauses playing
 
-it stop                               Stops playing
+it stop      ::  Stops playing
 
-it help                               Shows instructions of the workflow
+it help      ::  Shows instructions of the workflow
 
-it h                                  Shows Instructions of the workflow
+it h      ::  Shows Instructions of the workflow
 
-it open                               Lets you open a song of your choice(You have to navigate to the song)
+it open      ::  Lets you open a song of your choice(You have to navigate to the song)
 
 Controls with Notifications:
 
-it dev                                Shows information about the developer
+it dev      ::  Shows information about the developer
 
-it track                              Shows information about the track playing
+it track      ::  Shows information about the track playing
 
-it artist                             Shows information about the artist of track
+it artist      ::  Shows information about the artist of track
 
-it duration                           Shows the duration of the track
+it duration      ::  Shows the duration of the track
 
-it album                              Shows the album of the track
+it album      ::  Shows the album of the track
 
-it count                              Shows how many times the track has been played
+it count      ::  Shows how many times the track has been played
 
-it times                              Shows how many times the track has been played
+it times      ::  Shows how many times the track has been played
